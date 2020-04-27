@@ -1,2 +1,2 @@
-airbnb_pricing
+airbnb_price_pediction
 
