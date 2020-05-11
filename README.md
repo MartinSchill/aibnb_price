@@ -17,7 +17,7 @@ Once you have choosen your base price, the algorithm will vary the daily price a
 There are several motivations that drive this project. I use airbnb quite often, since I like to travel and I also wanted to apply machine learning skills to a subject that almost anyone has heard of and can relate to. 
 It is important to work with a reasonable big dataset, so I chose with Paris a City that provides 67.323 listings.
 For a lot people around the world Paris represents the city of love and since I recently got married maybe it is a trip worth and we will use Airbnb. 
-When it comes to the price, Airbnb gives suggestions to the hosts about the base price and adjustments in certain seasons, but when talking to hosts as research for this project, in their experiences prices proved to be way lower than they could have gotten for their appartements. I want to investigate what drives the adverticed price of properties. The biggest problem is: If you set the price too high then no one will book the place. Is the price too low, you’ll be missing out on a lot of potential income.
+When it comes to the price, Airbnb gives suggestions to the hosts about the base price and adjustments in certain seasons, but when talking to hosts as research for this project, in their experiences prices proved to be way lower than they could have gotten for their appartements. I want to investigate what drives the adverticed price of properties and give hosts advice how they can optimize their apartment in order to get more money out of it. The biggest problem is: If you set the price too high then no one will book the place. Is the price too low, you’ll be missing out on a lot of potential income.
 
 **The dataset**
 
